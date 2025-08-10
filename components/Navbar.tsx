@@ -171,7 +171,7 @@ function NavLinks() {
 function MobileNavLinks({ setIsMenuOpen }: { setIsMenuOpen: (open: boolean) => void }) {
   const links = [
     { href: "#services", label: "Servicios" },
-    { href: "#about", label: "Nosotros" },
+    { href: "#about", label: "Sobre Nosotros" },
     { href: "#testimonials", label: "Testimonios" },
     { href: "#contact", label: "Contacto" },
   ];
